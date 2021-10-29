@@ -15,6 +15,6 @@ public class Main {
         for (int i = 1; i < numberOfTasks+1; i++) {
             worker.takeTask();
         }
-        
+
     }
 }
